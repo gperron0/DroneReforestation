@@ -22,11 +22,14 @@ By dividing the tasks in this way, the team was able to make rapid progress towa
 
 ## 📈 Analysis of results
 
-**Qualify** and **quantify** your achievements. Make measurements from your work, e.g.:
+At the end of the project, the drone is able to **fly properly** despite the heavy load added to the drone.
+The cannon is functional and is able to propel plastic balls supposed to represent seeds.
+The selection of the seeds is done in a functional way, there is an arrival of the seeds in the cannon which is done **one by one**.
+However, the electronics are not functional and do not allow the onboard system to propel seeds in flight.
 
-* **User tests**: Setup a methodology to test the efficiency of your project against users. It may use pre-experiment and post-experiment questionnaires. The most users the better to draw meaningful conclusions from your experiments. Radar diagrams are good to summarize such results.
-* **Table of data**: Provide (short) extracts of data and relevant statistics (distribution, mean, standard deviation, p-values...)
-* **Plots**: Most data are more demonstrative when represented as plots. 
+During the tests we carried out, we have made several observations :
+- Projection speed of **30 km/h** at the exit of the barrel
+- **Inertia** during the movement of the drone due to the load
+- Solenoid valve not sufficient to throw the seeds hard enough
 
-Draw conclusions, **interpret** the results and make recommandations to your client for your future of the work.
-It is totally fine to have results that are not as good as initially expected. Be honest and analyse why you did not manage to reach the objectives.
+To conclude, we did not succeed in producing a 100% functional system. Nevertheless, this POC allowed us to see that a drone of this size was able to lift such a load. Julien Geneste, who was present during the tests, was able to make **many observations** that will be useful for a future project.
