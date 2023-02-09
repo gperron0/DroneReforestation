@@ -1,6 +1,6 @@
 # Drone de reforestation
 
-**Description:** Embedding an airgun and intelligent guidance system on a drone to enable massive reforestation.
+**Description:** POC of embedding an airgun system on a drone to enable massive reforestation by projecting seeds into the ground.
 
 <img src="https://via.placeholder.com/900x300.png?text=Video+illustrating+your+project,+or+picture">
 
@@ -8,7 +8,13 @@
 
 ## 📄 This project in short
 
-The project, led by Julien Geneste, the founder of Kariboo, consists of the creation of a **seed cannon mechanism** that can be mounted on a drone. This mechanism will consist of the seed projection and storage module as well as a drone guidance system and an algorithm that will find the ideal positions for depositing seeds on the ground. The objectives are to find a solution that will allow the seeds to be shot, with precision and without destabilizing the drone, and to put in place a strategy to maximize the chances of survival of the shoot.
+The project, led by Julien Geneste, the founder of Kariboo, consists of the creation *as quickly as possible* a *minimum viable product* of a **seed cannon mechanism** that can be mounted on a **Unmanned Aerial Vehicle** (UAV). This mechanism will consist of : 
+ - seed projection module
+ - storage module 
+ - drone guidance system 
+ - algorithm that will find the ideal positions for depositing seeds on the ground. 
+
+The objectives are to find a solution that will allow the seeds to be shot, with precision and without destabilizing the drone, and to put in place a strategy to maximize the chances of survival of the shoot.
 
 This project was created in response to the many fires in Gironde and more generally in France.
 
