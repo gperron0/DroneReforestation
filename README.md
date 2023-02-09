@@ -1,14 +1,13 @@
-# Name of my project
+# Drone de reforestation
 
-**Description:** Template for deliverables of robotics projects at Bordeaux-INP.
-Replace this description by a sentence summarizing your project.
+**Description:** Embedding an airgun and intelligent guidance system on a drone to enable massive reforestation.
 
 <img src="https://via.placeholder.com/900x300.png?text=Video+illustrating+your+project,+or+picture"> 
 
 [📖 User documentation](docs/user) • [👨‍💻 Developer documentation](docs/developer) • [📈 Project report](docs/report) • [📚 Bibliography](docs/bibliography) • [⚠️ Risk Analysis](docs/risk)
   
 ## 📄 This project in short
-This paragraph is for the visitors who fly over your work and cannot read the whole documentation. They dislike long texts.
+Rapid creation of a minimum viable product to test the technology
 
 Be **concise** and **convincing** to show the potential of your project. Be **honest** and list the limitations.  
 
