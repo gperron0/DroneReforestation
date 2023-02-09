@@ -2,7 +2,7 @@
 
 **Description:** POC of embedding an airgun system on a drone to enable massive reforestation by projecting seeds into the ground.
 
-<img src="https://via.placeholder.com/900x300.png?text=Video+illustrating+your+project,+or+picture">
+<img src="https://via.placeholder.com/900x300.png?text=https://youtu.be/yf7zY1jwji8">
 
 [📖 User documentation](docs/user) • [👨‍💻 Developer documentation](docs/developer) • [📈 Project report](docs/report) • [📚 Bibliography](docs/bibliography) • [⚠️ Risk Analysis](docs/risk)
 
@@ -23,5 +23,5 @@ This project was created in response to the many fires in Gironde and more gener
 |                        |                                                                                                                                                                                                      |
 | :--------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     💼 **Client**      |                                                                                            Julien Geneste                                                                                            |
-| 🔒 **Confidentiality** |                                                                                            **Public** \_                                                                                             |
+| 🔒 **Confidentiality** |                                                                                            **Public**                                                                                              |
 |     👨‍👨‍👦 **Authors**     | Gaël Perron: https://www.linkedin.com/in/gaelperron/ , Mohammed Amine Faiz: https://www.linkedin.com/in/mohammed-amine-faiz-949a931b6 , Loïc Jacob: https://www.linkedin.com/in/loïc-jacob-03b268202 |
