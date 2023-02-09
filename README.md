@@ -2,7 +2,7 @@
 
 **Description:** POC of embedding an airgun system on a drone to enable massive reforestation by projecting seeds into the ground.
 
-<img src="https://via.placeholder.com/900x300.png?text=https://youtu.be/yf7zY1jwji8">
+<video loop autoplay control="off" src="https://youtu.be/yf7zY1jwji8">
 
 [📖 User documentation](docs/user) • [👨‍💻 Developer documentation](docs/developer) • [📈 Project report](docs/report) • [📚 Bibliography](docs/bibliography) • [⚠️ Risk Analysis](docs/risk)
 
